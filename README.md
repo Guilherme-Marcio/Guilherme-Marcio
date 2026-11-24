@@ -14,7 +14,7 @@ Estudante de **Engenharia de Software** na UNIFASAR. Uso o GitHub para registrar
 | Projeto | Descrição | Linguagem |
 | --- | --- | --- |
 | [Projeto-Final-PHP-SQL](https://github.com/Guilherme-Marcio/Projeto-Final-PHP-SQL) | Projeto final da disciplina de Banco de Dados I | PHP |
-| [Sistema Monolítico via CMD](https://github.com/Guilherme-Marcio/Projeto-de-Desenvolvimento-de-Sistema-Monol-tico-via-CMD) | Sistema monolítico de linha de comando (projeto acadêmico) | C# |
+| [Sistema em Microserviços via CMD](https://github.com/Guilherme-Marcio/Projeto-de-Desenvolvimento-de-Sistema-Microservicos-via-CMD) | Loja de Jiu-Jitsu no CMD em microserviços (API Gateway + serviços ASP.NET Core), com a versão monolítica original para comparação (projeto acadêmico) | C# |
 | [UNIFASAR-Engenharia-de-Software](https://github.com/Guilherme-Marcio/UNIFASAR-Engenharia-de-Software) | Projetos e atividades da faculdade | C# |
 | [Projetos](https://github.com/Guilherme-Marcio/Projetos) | Projetos pessoais | C# |
 
